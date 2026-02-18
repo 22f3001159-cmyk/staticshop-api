@@ -13,7 +13,7 @@
     { "id": "prod-262e3571-007", "name": "Standard Item 7", "category": "clothing", "price": 493.47, "stock": 134, "rating": 1.4 },
     { "id": "prod-262e3571-008", "name": "Premium Item 8", "category": "electronics", "price": 98.45, "stock": 132, "rating": 2.5 },
     { "id": "prod-262e3571-009", "name": "Premium Item 9", "category": "sports", "price": 353.94, "stock": 36, "rating": 2.3 },
-    { "id": "prod-262e3571-010", "name": "Standard Item 10", "category": "home", "price": 352.1, "stock": 115, "rating": 3.9 },
+    { "id": "prod-262e3571-010", "name": "Standard Item 10", "category": "home", "price": 352.10, "stock": 115, "rating": 3.9 },
     { "id": "prod-262e3571-011", "name": "Standard Item 11", "category": "clothing", "price": 135.56, "stock": 174, "rating": 1.3 },
     { "id": "prod-262e3571-012", "name": "Premium Item 12", "category": "home", "price": 123.63, "stock": 124, "rating": 1.1 },
     { "id": "prod-262e3571-013", "name": "Premium Item 13", "category": "home", "price": 268.46, "stock": 73, "rating": 3.5 },
@@ -33,6 +33,6 @@
     "home": { "count": 6, "inventoryValue": 128506.84 },
     "clothing": { "count": 6, "inventoryValue": 131044.38 },
     "electronics": { "count": 3, "inventoryValue": 25016.05 },
-    "books": { "count": 4, "inventoryValue": 91806.53 }
+    "books": { "count": 4, "inventoryValue": 91906.53 }
   }
 }
